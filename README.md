@@ -1,6 +1,6 @@
 # Subscription Management API
 
-A production-ready **Subscription Management System** built with **Node.js** and **Express**. This API handles real users, real payments, and real business logic, featuring JWT authentication, database modeling, API architecture, security, and automated workflows.
+A production-ready **Subscription Management System** built with **Node.js** and **Express**. This API handles real users, real subscriptions, and real business logic, featuring JWT authentication, database modeling, API architecture, security, and automated workflows.
 
 ## Features
 - ✅ **User Authentication** (JWT)
