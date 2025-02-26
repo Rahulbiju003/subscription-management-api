@@ -7,7 +7,7 @@ A production-ready **Subscription Management System** built with **Node.js** and
 - ✅ **Subscription Plans**
 - ✅ **Database Modeling**
 - ✅ **API Security with Arcjet** (Bot protection, rate limiting)
-- ✅ **Automated Workflows**
+- ✅ **Automated Workflows using Upstash**
 
 ## Tech Stack
 - **Backend:** Node.js, Express.js
