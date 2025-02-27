@@ -19,5 +19,5 @@ A production-ready **Subscription Management System** built with **Node.js** and
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/subscription-management-api.git
+   https://github.com/Rahulbiju003/subscription-management-api.git
    cd subscription-management-api
